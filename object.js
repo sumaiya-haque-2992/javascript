@@ -12,7 +12,7 @@ person.firstName = 'mst. sumaiya';
 person.nationality = 'Bangladeshi';
 // data delete
 delete person.lastName;
-console.log(person);
+// console.log(person);
 // console.log(person.firstName);
 
 
@@ -39,4 +39,16 @@ console.log(person);
 //     salary: 40000
 // }
 // console.log(employe.skill.course2.duration);
+
+
+let product= {
+    productName:'biskut',
+    price:100,
+    date:"12.12.2024",
+    brand:"lexus"
+};
+// console.log(product.brand);
+
+
+
 
