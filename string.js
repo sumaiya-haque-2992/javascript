@@ -43,5 +43,3 @@ let rep = str.repeat(3);
 console.log(rep);
 
 
-// let friendlist = ["sadia", "suhana", "sayra", "samia"];
-// console.log(friendlist);

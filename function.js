@@ -79,3 +79,14 @@
 // }
 
 
+
+// function division(x, y){
+//     return Math.ceil (x/y);
+// };
+//  let x = 400;
+//  let y = 7;
+//  let totalDivision = division(x,y);
+//  console.log(totalDivision);
+
+
+    
