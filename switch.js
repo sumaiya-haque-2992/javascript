@@ -25,29 +25,32 @@
 
 
 
-let day = 9;
-switch(true){
-    case(day==1):
-    console.log('saturday');
-    break;
-    case(day==2):
-    console.log('sunday');
-    break;
-    case(day==3):
-    console.log('monday');
-    break;
-    case(day==4):
-    console.log('Tuesday');
-    break;
-    case(day==5):
-    console.log('Wednesday');
-    break;
-    case(day==6):
-    console.log('Thursday');
-    break;
-    case(day==7):
-    console.log('friday');
-    break;
-    default:
-    console.log('invalidDay');
-};
+// let day = 9;
+// switch(true){
+//     case(day==1):
+//     console.log('saturday');
+//     break;
+//     case(day==2):
+//     console.log('sunday');
+//     break;
+//     case(day==3):
+//     console.log('monday');
+//     break;
+//     case(day==4):
+//     console.log('Tuesday');
+//     break;
+//     case(day==5):
+//     console.log('Wednesday');
+//     break;
+//     case(day==6):
+//     console.log('Thursday');
+//     break;
+//     case(day==7):
+//     console.log('friday');
+//     break;
+//     default:
+//     console.log('invalidDay');
+// };
+
+
+

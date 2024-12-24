@@ -75,3 +75,122 @@
 // let includes = friendlist.includes("sayrah");
 // console.log(includes);
 
+
+
+// let movies = ['super man', 'bat man', 'captain america', 'iron man'];
+// console.log(movies)
+
+
+
+// let user = [
+//     {
+//         name: 'akkas',
+//         fathersName: 'jakkas',
+//         old: 20
+//     },
+//     {
+//         name: 'abul',
+//         fathersName: 'babul',
+//         old: 20
+//     },
+//     {
+//         name: 'helal',
+//         fathersName: 'bellal',
+//         old: 20
+//     },
+//     {
+//         name: 'mukit',
+//         fathersName: 'nukit',
+//         old: 20
+//     },
+//     {
+//         name: 'kabul',
+//         fathersName: 'tabul',
+//         old: 20
+//     }
+// ]
+// console.log(user[2].name);
+
+
+
+const users = [
+    {
+        id: 1,
+        name: 'Sumaiya Haque',
+        age: 22,
+        email: 'sumaiyahaque2992@gmail.com',
+        phone: '01603337197',
+        address: {
+            street: '125 Main st',
+            city: 'New York',
+            state: 'NY',
+            zip: '2992'
+        },
+        occupation: 'Web Developer',
+        hobbies: ['Painting', 'Traveling', 'Reading']
+    },
+    {
+        id: 2,
+        name: 'Sumaiya Haque',
+        age: 22,
+        email: 'sumaiyahaque2992@gmail.com',
+        phone: '01603337197',
+        address: {
+            street: '125 Main st',
+            city: 'New York',
+            state: 'NY',
+            zip: '2992'
+        },
+        occupation: 'Web Developer',
+        hobbies: ['Painting', 'Traveling', 'Reading']
+    },
+    {
+        id: 3,
+        name: 'Sumaiya Haque',
+        age: 22,
+        email: 'sumaiyahaque2992@gmail.com',
+        phone: '01603337197',
+        address: {
+            street: '125 Main st',
+            city: 'New York',
+            state: 'NY',
+            zip: '2992'
+        },
+        occupation: 'Web Developer',
+        hobbies: ['Painting', 'Traveling', 'Reading']
+    },
+    {
+        id: 4,
+        name: 'Sumaiya Haque',
+        age: 22,
+        email: 'sumaiyahaque2992@gmail.com',
+        phone: '01603337197',
+        address: {
+            street: '125 Main st',
+            city: 'New York',
+            state: 'NY',
+            zip: '2992'
+        },
+        occupation: 'Web Developer',
+        hobbies: ['Painting', 'Traveling', 'Reading']
+    },
+    {
+        id: 5,
+        name: 'Sumaiya Haque',
+        age: 22,
+        email: 'sumaiyahaque2992@gmail.com',
+        phone: '01603337197',
+        address: {
+            street: '125 Main st',
+            city: 'New York',
+            state: 'NY',
+            zip: '2992'
+        },
+        occupation: 'Web Developer',
+        hobbies: ['Painting', 'Traveling', 'Reading']
+    },
+]
+// console.log(users[0].address.city)
+// console.log(users[0].hobbies[2])
+for(let i = 0; i <users.length; i++){
+    console.log(users[i]);
