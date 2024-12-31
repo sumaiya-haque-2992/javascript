@@ -113,84 +113,85 @@
 
 
 
-const users = [
-    {
-        id: 1,
-        name: 'Sumaiya Haque',
-        age: 22,
-        email: 'sumaiyahaque2992@gmail.com',
-        phone: '01603337197',
-        address: {
-            street: '125 Main st',
-            city: 'New York',
-            state: 'NY',
-            zip: '2992'
-        },
-        occupation: 'Web Developer',
-        hobbies: ['Painting', 'Traveling', 'Reading']
-    },
-    {
-        id: 2,
-        name: 'Sumaiya Haque',
-        age: 22,
-        email: 'sumaiyahaque2992@gmail.com',
-        phone: '01603337197',
-        address: {
-            street: '125 Main st',
-            city: 'New York',
-            state: 'NY',
-            zip: '2992'
-        },
-        occupation: 'Web Developer',
-        hobbies: ['Painting', 'Traveling', 'Reading']
-    },
-    {
-        id: 3,
-        name: 'Sumaiya Haque',
-        age: 22,
-        email: 'sumaiyahaque2992@gmail.com',
-        phone: '01603337197',
-        address: {
-            street: '125 Main st',
-            city: 'New York',
-            state: 'NY',
-            zip: '2992'
-        },
-        occupation: 'Web Developer',
-        hobbies: ['Painting', 'Traveling', 'Reading']
-    },
-    {
-        id: 4,
-        name: 'Sumaiya Haque',
-        age: 22,
-        email: 'sumaiyahaque2992@gmail.com',
-        phone: '01603337197',
-        address: {
-            street: '125 Main st',
-            city: 'New York',
-            state: 'NY',
-            zip: '2992'
-        },
-        occupation: 'Web Developer',
-        hobbies: ['Painting', 'Traveling', 'Reading']
-    },
-    {
-        id: 5,
-        name: 'Sumaiya Haque',
-        age: 22,
-        email: 'sumaiyahaque2992@gmail.com',
-        phone: '01603337197',
-        address: {
-            street: '125 Main st',
-            city: 'New York',
-            state: 'NY',
-            zip: '2992'
-        },
-        occupation: 'Web Developer',
-        hobbies: ['Painting', 'Traveling', 'Reading']
-    },
-]
+// const users = [
+//     {
+//         id: 1,
+//         name: 'Sumaiya Haque',
+//         age: 22,
+//         email: 'sumaiyahaque2992@gmail.com',
+//         phone: '01603337197',
+//         address: {
+//             street: '125 Main st',
+//             city: 'New York',
+//             state: 'NY',
+//             zip: '2992'
+//         },
+//         occupation: 'Web Developer',
+//         hobbies: ['Painting', 'Traveling', 'Reading']
+//     },
+//     {
+//         id: 2,
+//         name: 'Sumaiya Haque',
+//         age: 22,
+//         email: 'sumaiyahaque2992@gmail.com',
+//         phone: '01603337197',
+//         address: {
+//             street: '125 Main st',
+//             city: 'New York',
+//             state: 'NY',
+//             zip: '2992'
+//         },
+//         occupation: 'Web Developer',
+//         hobbies: ['Painting', 'Traveling', 'Reading']
+//     },
+//     {
+//         id: 3,
+//         name: 'Sumaiya Haque',
+//         age: 22,
+//         email: 'sumaiyahaque2992@gmail.com',
+//         phone: '01603337197',
+//         address: {
+//             street: '125 Main st',
+//             city: 'New York',
+//             state: 'NY',
+//             zip: '2992'
+//         },
+//         occupation: 'Web Developer',
+//         hobbies: ['Painting', 'Traveling', 'Reading']
+//     },
+//     {
+//         id: 4,
+//         name: 'Sumaiya Haque',
+//         age: 22,
+//         email: 'sumaiyahaque2992@gmail.com',
+//         phone: '01603337197',
+//         address: {
+//             street: '125 Main st',
+//             city: 'New York',
+//             state: 'NY',
+//             zip: '2992'
+//         },
+//         occupation: 'Web Developer',
+//         hobbies: ['Painting', 'Traveling', 'Reading']
+//     },
+//     {
+//         id: 5,
+//         name: 'Sumaiya Haque',
+//         age: 22,
+//         email: 'sumaiyahaque2992@gmail.com',
+//         phone: '01603337197',
+//         address: {
+//             street: '125 Main st',
+//             city: 'New York',
+//             state: 'NY',
+//             zip: '2992'
+//         },
+//         occupation: 'Web Developer',
+//         hobbies: ['Painting', 'Traveling', 'Reading']
+//     },
+// ]
 // console.log(users[0].address.city)
 // console.log(users[0].hobbies[2])
-for(let i = 0; i <users.length; i++){
-    console.log(users[i]);
+// for(let i = 0; i <users.length; i++){
+//     console.log(users[i]);
+// }

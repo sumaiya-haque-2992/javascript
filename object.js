@@ -41,14 +41,25 @@ delete person.lastName;
 // console.log(employe.skill.course2.duration);
 
 
-let product= {
-    productName:'biskut',
-    price:100,
-    date:"12.12.2024",
-    brand:"lexus"
-};
+// let product= {
+//     productName:'biskut',
+//     price:100,
+//     date:"12.12.2024",
+//     brand:"lexus"
+// };
 // console.log(product.brand);
 
 
 
-
+let user={
+    firstName: "akkas",
+    lastName: "ali",
+    age: 25,
+    isAdmin: true
+};
+// JSON
+let users = {
+    "firstName":"akkas",
+    "age":23,
+    "isAdmin":true
+}
